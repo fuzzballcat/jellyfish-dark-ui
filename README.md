@@ -1,3 +1,5 @@
 # Jellyfish Dark UI Theme
 
-A ui theme to pair with the Jellyfish Dark Syntax Theme.
+A dark, ocean-themed UI for the Atom text editor to pair with the [Jellyfish Dark Syntax Theme](https://atom.io/themes/jellyfish-dark-syntax).
+
+![Jellyfish Dark UI in action](https://github.com/fuzzballcat/jellyfish-dark-ui/blob/master/img/ui.png)
